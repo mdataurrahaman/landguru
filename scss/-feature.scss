@@ -1,0 +1,62 @@
+.feature{
+    padding-bottom: 180px;
+
+    .feature-sub-title{
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 40px;
+        letter-spacing: 2.1px;
+        text-transform: uppercase;
+        color: #EA3A60;
+        margin: 120px auto 2px;
+
+    }
+    .feature-title{
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 55px;
+        letter-spacing: -1.5px;
+        color: #0F2137;
+        margin-bottom: 90px;
+
+    }
+
+    .feature-card{
+
+        .card-icon{
+            display: block;
+
+        }
+
+        .card-title{
+
+            
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 23px;
+        color: #0F2137;
+        margin-bottom: 35px;
+
+        }
+
+        .card-description{
+
+
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 26px;
+            color: #343D48;
+            max-width: 230px;
+
+        }
+    }
+}

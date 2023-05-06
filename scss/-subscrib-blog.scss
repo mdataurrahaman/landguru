@@ -1,0 +1,79 @@
+.subscrib-blog{
+    background: #EA3A60;
+    position: relative;
+
+    .bg-left-top{
+        position: absolute;
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+
+    .subscrib-blog-heading{
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 55px;
+        align-items: center;
+        text-align: center;
+        letter-spacing: -1.5px;
+        color: #FFFFFF;
+       padding-top: 60px;
+       padding-bottom: 30px;
+
+    }
+
+
+    .subscrib-blog-description{
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 38px;
+        text-align: center;
+        color: #FFFFFF;
+        max-width: 520px;
+
+    }
+  
+    .subscib-blog-form{
+        padding: 60px ;
+        input[type=text], select {
+            width: 50%;
+            padding: 17px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 50px;
+            box-sizing: border-box;
+          }
+
+        ::placeholder{
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            color: #EA3A60;
+        }
+
+
+    }
+    .subscrib-blog-btn{
+        padding: 13px 42px;
+        color: #fff;
+        background: #EA3A60;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        border-radius: 50px;
+        border: 0;
+        margin-left: -200px;
+    }
+
+    
+
+}

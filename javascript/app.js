@@ -1,0 +1,4 @@
+$('.mySlider').slick({
+    
+});
+

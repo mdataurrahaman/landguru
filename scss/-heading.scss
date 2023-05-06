@@ -1,0 +1,83 @@
+.heading-fluid{
+
+    
+
+    .heading{
+
+        .heading-h1{
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 70px;
+            line-height: 80px;
+            letter-spacing: -0.02em;
+            color: #0F2137;
+            max-width: 650px;
+            padding-top: 150px;
+
+        }
+
+        .heading-description{
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 34px;
+            color: #02073E;
+            max-width: 500px;
+            margin: 17px auto 43px;
+
+        }
+
+        .heading-btn{
+            padding: 13px 47px;
+            background: #EA3A60;
+            border-radius: 50px;
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            letter-spacing: -0.16px;
+            color: #FFFFFF;
+            outline: 0;
+            border: 0;
+
+        }
+    }
+    position: relative;
+    &::before {
+        position: absolute;
+        content: "";
+        bottom:70px;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        z-index: -1;
+        background-image: url(../img/heading/Shape-left.png);
+        background-repeat: no-repeat;
+        background-position: bottom left;
+        background-size: 36%;
+    }
+
+    &::after {
+        position: absolute;
+        content: "";
+        bottom: 70px;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        z-index: -1;
+        background-image: url(../img/heading/Shape-right.png);
+        background-repeat: no-repeat;
+        background-position: bottom right;
+        background-size: 32%;
+    }
+    .heading-img{
+
+        .heading-pic{
+
+        }
+
+    }
+}

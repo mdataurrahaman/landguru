@@ -1,0 +1,189 @@
+.pricing{
+    margin-bottom: 180px;
+    
+    .pricing-heading{
+
+        margin-bottom: 42px;
+        .pricing-sub-title{
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 40px;
+            letter-spacing: 2.1px;
+            text-transform: uppercase;
+            color: #EA3A60;
+
+        }
+
+        .pricing-title{
+
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 55px;
+            text-align: center;
+            letter-spacing: -1.5px;
+            color: #0F2137;
+            margin-bottom: 43px;
+
+        }
+
+            .btn-bg{
+                margin: 0 auto;
+               width: auto;
+               background: #F7F8FB;
+               filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+               border-radius: 10px;
+
+     
+             .btn-left{
+                padding:   14px;
+                background: #FFFFFF;
+                border: 0;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 24px;
+                align-items: center;
+                letter-spacing: -0.24px;
+                color: #0F2137;
+
+
+             }
+
+             .btn-right{
+                background: transparent;
+                border: 0;
+                margin-left: 56px;
+                margin-right: 42px;
+                padding: 20px;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 24px;
+                align-items: center;
+                letter-spacing: -0.24px;
+                color: #0F2137;
+             }
+
+            }
+    }
+    .pricing-card-bg{
+        justify-content: space-around;
+
+        .pricing-card{
+            
+            background: #FFFFFF;
+            border: 1px solid #F3F4F5;
+            border-radius: 10px;
+            width: 350px;
+            .pro-icon-btn{
+                position: absolute;
+                font-family: 'DM Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 28px;
+                letter-spacing: -0.14px;
+                color: #FFFFFF;
+                background: #FFA740;
+                border: 0;
+                padding: 5px 8px;
+                margin-left: 50px;
+                margin-top: -20px;
+                border-radius: 8px;
+            }
+           
+
+            .pricing-card-left-space{
+                margin-left: 43px;
+                .pricing-card-heading{
+                    font-family: 'DM Sans';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 22px;
+                    line-height: 29px;
+                    letter-spacing: -0.55px;
+                    color: #0F2137;
+                    margin-top: 50px;
+                }
+                .pricing-card-description{
+                    font-family: 'DM Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 28px;
+                    align-items: center;
+    
+                    color: #343D48;
+                }
+                ul {
+                    padding: 0;
+    
+                    li{
+                        i{
+                            color: #EA3A60;
+                            margin-right: 15px;
+                            font-size: 20px;
+                        }
+                        font-family: 'DM Sans';
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 16px;
+                        color: #343D48;
+                        line-height: 32px;
+                        list-style: none;
+      
+                    }
+    
+                              
+                }
+              
+                .duration{
+                    .price{
+                        font-family: 'DM Sans';
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 30px;
+                        line-height: 39px;
+                        letter-spacing: -0.9px;
+                        color: #0F2137;
+                       
+                        
+                    }
+                 
+                    font-family: 'DM Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 28px;
+                    color: #343D48;
+                    margin-left: 100px;
+                    margin-top: 30px;
+                }
+    
+                .pricing-card-btn{
+                    padding: 13px 52px;
+                    font-family: 'DM Sans';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 24px;
+                    letter-spacing: -0.16px;
+                    color: #FFFFFF;
+                    background: #EA3A60;
+                    border-radius: 50px;
+                    border: 0;
+                    margin: 30px 25px 88px;
+                }
+                
+            }
+
+           
+        }
+    }
+}

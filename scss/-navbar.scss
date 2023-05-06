@@ -1,0 +1,50 @@
+.navbar{
+    .container{
+        .collapse{
+            .navbar-nav{
+                .nav-item{
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 33px;
+                    text-align: center;
+                    color: #02073E;
+                    padding: 0 23px 0;
+                    .nav-link{
+
+                    }
+                    :hover{
+                        
+                        color:#EA3A60;
+        
+                    }
+
+                }
+               
+            }
+            .btn{
+            .btn-get-started{
+               
+                border: 2px solid  #EA3A60;
+                border-radius: 50px;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 24px;
+                letter-spacing: -0.16px;
+                color: #EA3A60;
+                text-transform: capitalize;
+               
+            }
+         
+            :hover{
+                background-color: #EA3A60 ;
+                color: #fff;
+
+            }
+        }
+           
+
+           
+        }
+      
+    }
+}
